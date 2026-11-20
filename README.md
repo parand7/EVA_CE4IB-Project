@@ -4,7 +4,7 @@ Project for the course EVA, Dynamic Models for Building Energy Management.
 
 **Team:** Mohamad Youness, Marcel Stranz, Parisa Parand
 
-**Run online:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MohamadYouness0/EVA_CE4IB-Project/HEAD?labpath=EVA_report.ipynb)
+**Run online:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parand7/EVA_CE4IB-Project/main)
 
 
 ## Files
